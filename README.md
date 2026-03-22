@@ -1,42 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ebiperre Iyoro
-======================================================================================================================================
+# Hi, I'm Ebiperre (Perre) Iyoro 👋🏾
 
-Fullstack Web Devloper || Tech Mentor and a Cybersecurity enthusiast
---------------------------------------------------------------------
+> Senior Software Engineer · Co-founder & CTO · Fintech Builder
 
-*   🌍  I'm based in Lagos
-*   ✉️  You can contact me at [iyorop@gmail.com](mailto:iyorop@gmail.com)
-*   🧠  I'm learning Next.js and AR.js
-*   🤝  I'm open to collaborating on anything fun and informative, as long as It's solving a problem### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-                    
-                  ### Socials
-                  
-                  
- <p align="left">
-                          
-<a href="https://www.github.com/ebiperre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ebiperre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://ebiperre.medium.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ebiperre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  </p>
+I build high-throughput financial systems by day and ship products that matter on the side. Based in **Lagos, Nigeria** 
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+`Elixir` `TypeScript` `Python` `JavaScript`
+
+**Frontend**
+`React` `React Native` `Next.js` `Tailwind CSS`
+
+**Backend**
+`Phoenix (Elixir)` `Node.js / Express` `Django` `REST` `GenServer / OTP`
+
+**Data & Infrastructure**
+`PostgreSQL` `MongoDB` `Redis` `Firebase`
+
+**Payments & Fintech**
+`Paystack` `Flutterwave` `9PSB` `Nigerian payment infrastructure`
+
+**Tools & Practices**
+`Figma` `Git` `Docker` `Agile` `Pine Script (TradingView)` `Deriv`
+
+---
+
+## 🧠 Background
+
+7+ years across fintech, agro-tech, health tech, and gaming. I've shipped production systems that process real money for real users — bulk disbursements, multi-provider KYC, wallet engines, and high-concurrency Elixir/Phoenix backends.
+
+I also write on [Substack](https://ebiperre.substack.com) about authenticity, growth, and what it actually feels like to build things in this environment.
+
+---
+
+## 📌 Selected Work
+
+| Project | What it is |
+|---|---|
+| **GidiNest** | Maternal savings platform · Python + React Native + React.js |
+| **Figours** | Nigerian fintech platform · Elixir/Phoenix backend |
+| **ICT SMC Indicator** | Pine Script V5 · 5-layer confluence model for prop-firm trading |
+| **Spending Thermometer** | Daily spend tracker with temperature metaphor · deployed to both app stores |
+| **WasteConnect** | Waste logistics platform · Next.js + PostgreSQL + PostGIS |
+
+---
+
+## 📬 Let's Connect
+
+- 🐦 Twitter/X: [@ebiperre](https://twitter.com/ebiperre)
+- 💼 LinkedIn: [linkedin.com/in/ebiperre](https://linkedin.com/in/ebiperre)
+- ✍🏾 Substack: [ebiperre.substack.com](https://ebiperre.substack.com)
+- 📧 Email: iyorop@gmail.com
+- 🐙 GitHub: you're already here
+
+---
+
+*Building things that work in Lagos is a different kind of engineering discipline.*

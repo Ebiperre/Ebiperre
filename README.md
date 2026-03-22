@@ -58,4 +58,3 @@ I also write on [Substack](https://ebiperre.substack.com) about authenticity, gr
 
 ---
 
-*Building things that work in Lagos is a different kind of engineering discipline.*
